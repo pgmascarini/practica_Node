@@ -12,6 +12,7 @@ API que se ejecutará en el servidor de un servicio de venta de artículos de se
     - en la carpeta raiz.
     - ejecutar comando: npm install.
  - Arrancar MongoDB.
+ - Crear base de datos nodepop.
  - Arrancar API:
     - en la carpeta raiz.
     - modo desarrollo: npm run dev.
